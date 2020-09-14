@@ -1,3 +1,3 @@
 # CVE
 
-Here will be my assigned CVs and exploits
+Here will be my assigned CVE and exploits
